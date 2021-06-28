@@ -1,0 +1,24 @@
+{
+  "name": "babel-plugin",
+  "version": "1.0.0",
+  "description": "create babel-plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dante01yoon/babel-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dante01yoon/babel-plugin/issues"
+  },
+  "homepage": "https://github.com/dante01yoon/babel-plugin#readme",
+  "dependencies": {
+    "@babel/cli": "^7.14.5",
+    "@babel/core": "^7.14.6"
+  }
+}
